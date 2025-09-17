@@ -2,12 +2,6 @@ site_name: Green Pitta
 nav:
   - General: index.md
   - Home: home.md
-  - Category: category.md
-  - Product: product.md
-  - Reviews: reviews.md
-  - Contact: contact.md
-  - Mega Menu: menu.md
-  - Other: other.md
 theme: readthedocs
 extra_css:
   - style.css

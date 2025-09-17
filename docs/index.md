@@ -8,11 +8,11 @@
 
 ## Project templates
 * [Homepage](home/)
-* [Category Page](category/)
+<!--* [Category Page](category/)
 * [Product Page](product/)
 * [Reviews Page](reviews/)
 * [Contact Page](contact/)
-* [Mega Menu](menu/)
+* [Mega Menu](menu/)-->
 
 ## Before You Begin
 

@@ -2,44 +2,34 @@
 The homepage is the main page of the website. It is the first page that the user sees when they visit the website.
 
 ## Hero Banner
+![hero-banner.png](img/hero-banner.png)
 
+The Hero Banner is using the 'Home Hero Banner' widget. You can change it in the [Page Builder](index.md/#page-builder), by clicking on it while in Design mode, and editing the settings on the left pannel.
+The same block is also used at the bottom of the homepage.
 
-The Hero Banner Carousel is using the built-in BigCommerce Home Page Carousel.
-Please follow the <a href="https://support.bigcommerce.com/s/article/Carousel?language=en_US" target="_blank">BigCommerce documentation</a> to see how to manage it.
-Please note that the styles are in the theme and should not be changed unless you are confident in your abilities.
+![hero-inst1.png](img/hero-inst1.png)
+![hero-inst2.png](img/hero-inst2.png)
+
+## Image and Text Block
+![text-image.png](img/text-image.png)
+
+The Image and Text Block is using the 'Content and Image' widget. You can change it in the [Page Builder](index.md/#page-builder), by clicking on it while in Design mode, and editing the settings on the left pannel.
+
+![text-image-inst.png](img/text-image-inst.png)
 
 ## Featured Products
 
+![featured.png](img/featured.png)
 
 The Featured Products panel displays products that you have marked as Featured.
 To mark a product as Featured, simply go to the product listing via Products->View, then click on the star symbol on the product you want to display.
 
 ![featured-inst.png](img/featured-inst.png)
 
-## Full Banner
+## Categories Block
 
+![categories.png](img/categories.png)
 
-The full Banner is made using a BigCommerce widget. You can change it in the [Page Builder](index.md/#page-builder).
+The Categories Block is using the 'Home Categories' widget. You can change it in the [Page Builder](index.md/#page-builder), by clicking on it while in Design mode, and editing the settings on the left pannel.
 
-You can change the text by clicking on it
-
-
-
-You can toggle the visibility, add more slides, change the image, and more by clicking on the options on the left side.
-Please note that due to the custom design of the theme, some options may not work as expected.
-
-
-
-## Small Banner
-
-
-This is the custom widget called 'cta'. You need to select the style CTA to display the style like this one.
-
-
-
-## Logo List
-
-
-This is the custom widget called 'logos'. You can add multiple logos, delete, duplicate, rearrange, and more.
-
-
+![categories-inst.png](img/categories-inst.png)
