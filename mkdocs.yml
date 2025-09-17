@@ -1,10 +1,11 @@
-site_name: Project - CT
+site_name: Green Pitta
 nav:
   - General: index.md
   - Home: home.md
   - Category: category.md
   - Product: product.md
-  - Static: static.md
+  - Reviews: reviews.md
+  - Contact: contact.md
   - Mega Menu: menu.md
   - Other: other.md
 theme: readthedocs

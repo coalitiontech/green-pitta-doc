@@ -1,9 +1,9 @@
 :root {
-    --var-primary: #007EA8;
-    --var-primary-dark: #00527C;
-    --var-secondary: #7bc2ea;
-    --var-dark: #313131;
-    --var-light: #ececec;
+    --var-primary: #08571B;
+    --var-primary-dark: #FEE1E8;
+    --var-secondary: #DBF6FF;
+    --var-dark: #4B473F;
+    --var-light: #DEFFE7;
 }
 
 .wy-side-nav-search {
@@ -11,7 +11,11 @@
 }
 
 .wy-nav-side {
-    background-color: var(--var-dark);
+    background-color: var(--var-secondary);
+}
+
+.wy-nav-side a {
+    color: var(--var-dark);
 }
 
 .rst-versions .rst-current-version {
@@ -24,6 +28,7 @@
 
 .wy-menu-vertical a:hover {
     background-color: var(--var-primary);
+    color: var(--var-light);
 }
 
 .wy-menu-vertical li.toctree-l1.current>a {
