@@ -4,7 +4,7 @@ The homepage is the main page of the website. It is the first page that the user
 ## Hero Banner
 ![hero-banner.png](img/hero-banner.png)
 
-The Hero Banner is using the 'Home Hero Banner' widget. You can change it in the [Page Builder](index.md/#page-builder), by clicking on it while in Design mode, and editing the settings on the left pannel.
+The Hero Banner is using the custom 'Home Hero Banner' widget. You can change it in the [Page Builder](index.md/#page-builder), by clicking on it while in Design mode, and editing the settings on the left pannel.
 The same block is also used at the bottom of the homepage.
 
 ![hero-inst1.png](img/hero-inst1.png)
@@ -13,7 +13,7 @@ The same block is also used at the bottom of the homepage.
 ## Image and Text Block
 ![text-image.png](img/text-image.png)
 
-The Image and Text Block is using the 'Content and Image' widget. You can change it in the [Page Builder](index.md/#page-builder), by clicking on it while in Design mode, and editing the settings on the left pannel.
+The Image and Text Block is using the custom 'Content and Image' widget. You can change it in the [Page Builder](index.md/#page-builder), by clicking on it while in Design mode, and editing the settings on the left pannel.
 
 ![text-image-inst.png](img/text-image-inst.png)
 
@@ -30,6 +30,6 @@ To mark a product as Featured, simply go to the product listing via Products->Vi
 
 ![categories.png](img/categories.png)
 
-The Categories Block is using the 'Home Categories' widget. You can change it in the [Page Builder](index.md/#page-builder), by clicking on it while in Design mode, and editing the settings on the left pannel.
+The Categories Block is using the custom 'Home Categories' widget. You can change it in the [Page Builder](index.md/#page-builder), by clicking on it while in Design mode, and editing the settings on the left pannel.
 
 ![categories-inst.png](img/categories-inst.png)
